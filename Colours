@@ -1,0 +1,39 @@
+<!-- Write code below 💖 -->
+
+<!DOCTYPE html>
+<html>
+  <title>"Mighty Morphin’ Power Rangers"</title>
+  <head>
+    <style>
+      span {
+        text-decoration: underline;
+      }
+
+      #red-word {
+        color: red;
+      }
+
+      #blue-word {
+        color: blue;
+      }
+       #blue-word {
+        color: black;
+      }
+       #blue-word {
+        color: yellow;
+      }
+       #blue-word {
+        color: pink;
+      }
+    </style>
+  </head>
+  <body>
+    <p>
+      Roses are <span id="red-word">red</span>.<br />
+      Violets are <span id="blue-word">blue</span>.<br />
+       oscuridad are <span id="black-word">black</span>.<br />
+      sun are <span id="yellow-word">yellow</span>.<br />
+      flamenco are <span id="pink-word">pink</span>.<br />
+    </p>
+  </body>
+</html>

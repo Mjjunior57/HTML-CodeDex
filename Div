@@ -1,0 +1,33 @@
+<!-- Write code below 💖 -->
+
+<!-- Write code below 💖 -->
+
+!DOCTYPE html>
+<html>
+  <head>
+     <!-- Titulo -->
+    <title>Lista</title>
+  </head>
+  <body>
+    <h1> Untitled </h1>
+  <a href="https://en.wikipedia.org/wiki/Lorem_ipsum">Elon musk</a>
+  <img alt="Elon musk" src="https://1734811051.rsc.cdn77.org/data/images/full/378465/elon-musk.jpg">
+  <a href="https://extremomundial.com/wp-content/uploads/2020/06/detalle-mansion-elon-musk.jpg" target="_blank">Casa Elon Musk</a>
+  <h2 class="city" id="medellin">Medellín 🇨🇴</h2>
+  <div class="page-section" id="about-me">
+  <h2>Div con h2</h2>
+  <p>Parrafo!</p>
+  </div>
+
+  <div class="page-section" id="social-media">
+  <h2>Segundo div</h2>
+  <ul>
+    <li>GitHub</li>
+    <li>Youtube</li>
+    <li>LinkedIn</li>
+  </ul>
+</div>
+
+
+  </body>
+</html>

@@ -1,0 +1,99 @@
+<!-- Write code below 💖 -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+     <!-- Titulo -->
+    <title>Lista</title>
+  </head>
+  <body>
+    <h1>  entire generation, a website called MySpace  </h1>
+ 
+  <img alt="Elon musk" src="https://1734811051.rsc.cdn77.org/data/images/full/378465/elon-musk.jpg">
+<style>
+  body {
+    width: 85%;
+    margin: auto;
+  }
+
+  h1 {
+    text-align: left;
+  }
+
+  img {
+    border: 3px solid blue;
+  }
+
+  #top-8-wrapper {
+    text-align: center;
+  }
+
+  .friend-card {
+    display: inline-block;
+    margin: 1px;
+    text-align: center;
+  }
+
+  .friend-name {
+    color: blue;
+  }
+</style>
+ <div class="top-8-row">
+      <div class="friend-card">
+        <h3 class="friend-name">PEPE</h3>
+        <img src="https://1734811051.rsc.cdn77.org/data/images/full/378465/elon-musk.jpg" alt="Tom from MySpace">
+      </div>
+ <div class="top-8-row">
+      <div class="friend-card">
+        <h3 class="friend-name">PEDRO</h3>
+        <img src="https://1734811051.rsc.cdn77.org/data/images/full/378465/elon-musk.jpg" alt="Tom from MySpace">
+      </div>
+
+ <div class="top-8-row">
+      <div class="friend-card">
+        <h3 class="friend-name">Tom</h3>
+        <img src="https://1734811051.rsc.cdn77.org/data/images/full/378465/elon-musk.jpg" alt="Tom from MySpace">
+      </div>
+
+ <div class="top-8-row">
+      <div class="friend-card">
+        <h3 class="friend-name">ALFREDO</h3>
+        <img src="https://1734811051.rsc.cdn77.org/data/images/full/378465/elon-musk.jpg" alt="Tom from MySpace">
+      </div>
+
+ <div class="top-8-row">
+      <div class="friend-card">
+        <h3 class="friend-name">JACINTO</h3>
+        <img src="https://1734811051.rsc.cdn77.org/data/images/full/378465/elon-musk.jpg" alt="Tom from MySpace">
+      </div>
+
+ <div class="top-8-row">
+      <div class="friend-card">
+        <h3 class="friend-name">FARIGILDO</h3>
+        <img src="https://1734811051.rsc.cdn77.org/data/images/full/378465/elon-musk.jpg" alt="Tom from MySpace">
+      </div>
+
+ <div class="top-8-row">
+      <div class="friend-card">
+        <h3 class="friend-name">MARITOLDO</h3>
+        <img src="https://1734811051.rsc.cdn77.org/data/images/full/378465/elon-musk.jpg" alt="Tom from MySpace">
+      </div>
+
+ <div class="top-8-row">
+      <div class="friend-card">
+        <h3 class="friend-name">FEDERICO</h3>
+        <img src="https://1734811051.rsc.cdn77.org/data/images/full/378465/elon-musk.jpg" alt="Tom from MySpace">
+      </div>
+
+  <h2>Segundo div</h2>
+  <ul>
+    <li>class clown</li>
+    <li>life of the party</li>
+    <li>best hair</li>
+  </ul>
+</div>
+
+
+  </body>
+</html>
+
